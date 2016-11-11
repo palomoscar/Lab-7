@@ -1,14 +1,10 @@
 <?php
-session_write_close();
 
-echo "<p> <a href='layout.html'> INICIO </a>";
+//SIMPLEMENTE DESTRUIMOS LA SESION Y REDIRIGIMOS
 
-echo "<p> <a href='VerPreguntas.php'> VER PREGUNTAS </a>";
-
-echo "  ";
-
-die ("¡ESPERAMOS VOLVER A VERTE PRONTO!");
-
+	session_destroy();
+	
+	header("location: layout.php");
 
 
 ?>

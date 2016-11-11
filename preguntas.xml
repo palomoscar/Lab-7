@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+	</assessmentItem>
+<assessmentItem complexity="1" subject="Astronomia"><itemBody><p>&#xBF;Cual es el satelite del Planeta Tierra?</p></itemBody><correctResponse><value>Luna</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Matematicas"><itemBody><p>&#xBF;Cuanto es 2 mas 2?</p></itemBody><correctResponse><value>4</value></correctResponse></assessmentItem>
+<assessmentItem complexity="3" subject="Deporte"><itemBody><p>&#xBF;Quien ha ganado mas veces la Copa?</p></itemBody><correctResponse><value>Barcelona</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="General"><itemBody><p>&#xBF;Cada cuantos a&#xF1;os hay uno bisiesto?</p></itemBody><correctResponse><value>Cuatro</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Deporte"><itemBody><p>&#xBF;A que juega Nadal?</p></itemBody><correctResponse><value>Tenis</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Zoologia"><itemBody><p>&#xBF;Cuantas patas tiene una gallina?</p></itemBody><correctResponse><value>Dos</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Alimentacion"><itemBody><p>&#xBF;De que color es la leche?</p></itemBody><correctResponse><value>Blanco</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Deporte"><itemBody><p>&#xBF;Quien ganara el balon de oro?</p></itemBody><correctResponse><value>Mesi</value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="Deporte"><itemBody><p>&#xBF;Cuantostiempos tiene un partido de waterpolo?</p></itemBody><correctResponse><value>Cuatro</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="Astronomia"><itemBody><p>La luna llena se repite cada...</p></itemBody><correctResponse><value>28 dias</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="aaa"><itemBody><p>Hola</p></itemBody><correctResponse><value>Adios</value></correctResponse></assessmentItem>
+<assessmentItem complexity="2" subject="Calendario"><itemBody><p>Que dia es hallowen?</p></itemBody><correctResponse><value>1/XI</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Calendario"><itemBody><p>Que dia es hallowen?</p></itemBody><correctResponse><value>1/XI</value></correctResponse></assessmentItem>
+<assessmentItem complexity="4" subject="Calendario"><itemBody><p>En que mes es la tamborrada?</p></itemBody><correctResponse><value>Enero</value></correctResponse></assessmentItem><assessmentItem complexity="5" subject="vv"><itemBody><p>vvv</p></itemBody><correctResponse><value>v</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Alfabeto"><itemBody><p>&#xBF;Cu&#xE1;ntas letras vocales hay?</p></itemBody><correctResponse><value>5A</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Alfabeto"><itemBody><p>&#xBF;Que letra sigue a la Y?</p></itemBody><correctResponse><value>La Z</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Alfabeto"><itemBody><p>&#xBF;Cuantas letras tiene maravilloso?</p></itemBody><correctResponse><value>11</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Lectura"><itemBody><p>La M con la A</p></itemBody><correctResponse><value>MA</value></correctResponse></assessmentItem>
+<assessmentItem complexity="1" subject="Lectura"><itemBody><p>La S con la W</p></itemBody><correctResponse><value>SW</value></correctResponse></assessmentItem>
+<assessmentItem complexity="2" subject="Deporte"><itemBody><p>De donde es el Osasuna?</p></itemBody><correctResponse><value>Pamplona</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Deporte"><itemBody><p>De donde es el Alaves?</p></itemBody><correctResponse><value>Vitoria</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Cine"><itemBody><p>Como se apellida Pedro?</p></itemBody><correctResponse><value>Picapiedra</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Cine"><itemBody><p>Como se apellida Pedro?</p></itemBody><correctResponse><value>Picapiedra</value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="Anatomia"><itemBody><p>Cuantos dedos tiene una mano?</p></itemBody><correctResponse><value>5</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="Dinero"><itemBody><p>Cuantas pesetas son un duro??</p></itemBody><correctResponse><value>5</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Deporte"><itemBody><p>Que deporte practica Contador??</p></itemBody><correctResponse><value>Ciclismo</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="zzz"><itemBody><p>pruebazzzzzz</p></itemBody><correctResponse><value>zzzz</value></correctResponse></assessmentItem></assessmentItems>

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -37,20 +36,7 @@
 	
 	<?php
 
-
-	//conexion remota------->cambiarla!!!!!!!!!!
-
-	//$mysqli = mysqli_connect("mysql.hostinger.es"," 	u204349316_oscar","gabriel3", "u204349316_preg" ) or die(mysql_error());
-	
-	//conexion local
-	
-	$mysqli = mysqli_connect("localhost", "root","","preguntas") or die (mysql_error());
-
-		if (!$mysqli) {
-	 
-			echo "Fallo al conectar a MySQL: " . $mysqli->connect_error;
-
-		}
+        include("./conexionbd.php");
 
 	$preguntas = mysqli_query($mysqli, "select * from preguntas" ) or die( mysql_error() );
 

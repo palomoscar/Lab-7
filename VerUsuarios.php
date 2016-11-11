@@ -1,17 +1,6 @@
 <?php
 
-
-	//conexion remota
-
-	//$mysqli = mysqli_connect("mysql.hostinger.es","u204349316_root","gabriel3", "u204349316_users" ) or die(mysql_error());
-	
-	//conexion local
-	
-	$mysqli = mysqli_connect("localhost", "root","","usuario") or die (mysql_error());
-	
-
-		
-
+        include("./conexionbd.php");
 
 		if (!$mysqli) {
 	 
